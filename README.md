@@ -18,8 +18,8 @@
 5.  如果项目是协作开发并且用git做版本控制了，还有个更牛B的功能，在文件编辑区域右键点击行号，选择<kbd>Annotate</kbd>可以看到此处是谁写的代码，你写了bug，躲也躲不掉。哈哈……
 6.  当然你辛苦设置好WebStorm配置可以在本地查看，windows系统默认放置<kbd>C:\Users\admin\.WebStorm2016.1</kbd>，你可以拷贝到其他电脑上继续使用。记住千万不要用特殊手段关闭WebStorm，比如：关闭进程，突然断电导致电脑关机都可能导致webstorm异常不能启动。
 
-- **Sublime** 界面非常简洁，是一个轻量级而功能强大的编辑器。它也是收费软件，但是相比WebStorm要好破解一些。[sublime破解](http://www.jianshu.com/p/04e1b65dd2c0)，根据你安装的插件sublime才变得功能更加丰富。在安装各种插件之前你需要先装插件管理器[Package Control](https://packagecontrol.io/installation)
-**安装插件：** Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。
+- **Sublime** 界面非常简洁，是一个轻量级而功能强大的编辑器。它也是收费软件，但是相比WebStorm要好破解一些。[sublime破解](http://www.jianshu.com/p/04e1b65dd2c0)，根据你安装的插件sublime才变得功能更加丰富。在安装各种插件之前你需要先装插件管理器[Package Control](https://packagecontrol.io/installation)<br>
+**安装插件：** Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。<br>
 **删除插件：** Ctrl+Shift+P，输入remove package，选择插件再回车。
 我本地安装的插件列表：
 > AdvancedNewFile————快速新建文件<br>
