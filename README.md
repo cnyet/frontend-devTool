@@ -22,24 +22,24 @@
 **安装插件：** Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。
 **删除插件：** Ctrl+Shift+P，输入remove package，选择插件再回车。
 我本地安装的插件列表：
-> AdvancedNewFile————快速新建文件
-> Alignment————用于代码对齐
-> AutoFileName————自动补全文件(目录)名
-> Better Less————格式化less文件
-> Compare Side-By-Side————Sublime版本的BeyongCompare
-> DocBlockr————代码块注释
-> Emmet————快速编写HTML和CSS代码，默认快捷键 Tab
-> Git————集成git管理功能
-> Gitignore————一键生成git忽略文件模板
-> jQuery————快速生成jquery代码块
-> JsFormat————JavaScript代码格式化
-> JSON Key-Value————json代码高亮显示
-> LESS————高亮显示less语句
-> MarkdownEditing————编写的 markdown文件
-> Package Control————插件管理器
-> PackageResourceViewer———在浏览器中预览markdown文件
-> Theme - Soda————[soda主题](http://buymeasoda.github.io/soda-theme/)
-> HTML-CSS-JS Prettify————快速格式化html,css,js文件
+> AdvancedNewFile————快速新建文件<br>
+> Alignment————用于代码对齐<br>
+> AutoFileName————自动补全文件(目录)名<br>
+> Better Less————格式化less文件<br>
+> Compare Side-By-Side————Sublime版本的BeyongCompare<br>
+> DocBlockr————代码块注释<br>
+> Emmet————快速编写HTML和CSS代码，默认快捷键 Tab<br>
+> Git————集成git管理功能<br>
+> Gitignore————一键生成git忽略文件模板<br>
+> jQuery————快速生成jquery代码块<br>
+> JsFormat————JavaScript代码格式化<br>
+> JSON Key-Value————json代码高亮显示<br>
+> LESS————高亮显示less语句<br>
+> MarkdownEditing————编写的 markdown文件<br>
+> Package Control————插件管理器<br>
+> PackageResourceViewer———在浏览器中预览markdown文件<br>
+> Theme - Soda————[soda主题](http://buymeasoda.github.io/soda-theme/)<br>
+> HTML-CSS-JS Prettify————快速格式化html,css,js文件<br>
 > 另外两款精美的主题：[Material](http://equinsuocha.io/material-theme/#/default)和[Seti_UI](https://packagecontrol.io/packages/Seti_UI)（我正在用）
 
 
