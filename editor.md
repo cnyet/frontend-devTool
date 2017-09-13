@@ -37,7 +37,8 @@
 > 另外两款精美的主题：[Material](http://equinsuocha.io/material-theme/#/default)和[Seti_UI](https://packagecontrol.io/packages/Seti_UI)（我正在用）
 - **删除插件：** Ctrl+Shift+P，输入remove package，选择插件再回车。
 - 我本地的配置：<br>
-`{
+```
+{
     "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
     "font_face": "consolas",    
     "font_size": 14,
@@ -48,4 +49,5 @@
     ],
     "save_on_focus_lost": true,
     "theme": "Material-Theme.sublime-theme"
-}` 
+}
+``` 
