@@ -1,12 +1,7 @@
 
-# frontend-guidelines
-> [前端开发环境的搭建，以及好用的开发工具的整理](https://cnyet.github.io/frontend-guidelines/)
+# frontend-devTools
+> 提供你一份前端开发工具的装机清单
 
 - ### [IDE编辑器](./editor.md)
-- ### [开发工具](./dev-tools.md)
-
-
-
-
-
-
+- ### [开发工具](./tools.md)
+- ### [学习资料](./learn.md)
