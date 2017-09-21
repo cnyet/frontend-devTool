@@ -9,6 +9,8 @@
 - [navicat](https://www.navicat.com/en/products) mysql数据库可视化管理工具，需要破解
 - [Robo 3T](https://robomongo.org/) moogoDB可视化管理工具
 ### 提高效率的辅助工具
+- [Homebrew](https://brew.sh/) Mac上很流行的软件包管理器
+- [Chocolatey](https://chocolatey.org/) 一个适用于 Windows 的包管理器
 - [cmder](http://cmder.net/) windows平台替代命令行的工具，可配合sublime使用
 - [iterm2](https://www.iterm2.com/) mac平台命令行增强工具
 - [Prepros](https://prepros.io/downloads) 提供静态资源的web访问，由于收费软件每隔半小时会提醒你购买，可一直使用。
