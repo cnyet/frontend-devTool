@@ -15,6 +15,9 @@
 - [开源中国](http://www.oschina.net/) 优秀的开源社区
 - [CSDN](http://www.csdn.net/) 最大的中文IT社区
 ### 更多资料
+- [github Front-end JavaScript frameworks](https://github.com/showcases/front-end-javascript-frameworks)
+- [front-end-plugins](https://github.com/iamjoel/front-end-plugins#ui-framework)
+- [github上值得关注的前端项目](https://github.com/RubyLouvre/newland/issues/6)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [airbnb-javascript](https://github.com/airbnb/javascript)
 - [frontend-guidelines](https://github.com/ShanaMaid/frontend-guidelines-zh-CN)
