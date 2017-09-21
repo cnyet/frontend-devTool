@@ -9,8 +9,6 @@
 - [navicat](https://www.navicat.com/en/products) mysql数据库可视化管理工具，需要破解
 - [Robo 3T](https://robomongo.org/) moogoDB可视化管理工具
 ### 提高效率的辅助工具
-- [Homebrew](https://brew.sh/) Mac上很流行的软件包管理器
-- [Chocolatey](https://chocolatey.org/) 一个适用于 Windows 的包管理器
 - [cmder](http://cmder.net/) windows平台替代命令行的工具，可配合sublime使用
 - [iterm2](https://www.iterm2.com/) mac平台命令行增强工具
 - [Prepros](https://prepros.io/downloads) 提供静态资源的web访问，由于收费软件每隔半小时会提醒你购买，可一直使用。
@@ -30,6 +28,8 @@
 - [Can I Use](http://caniuse.com/) 检测css,js在各版本浏览器的支持情况
 - [Modernizr ](https://modernizr.com/) 检测浏览器特性的js库
 ### 包管理器
+- [Homebrew](https://brew.sh/) Mac上很流行的软件包管理器
+- [Chocolatey](https://chocolatey.org/) 一个适用于 Windows 的包管理器
 - [npm](http://npmjs.org/) nodejs的默认的包管理工具，偏服务端包管理
 - [bower](https://bower.io/) web端包管理工具，主要用于前端页面
 - [yarn](https://yarnpkg.com/zh-Hans/) 可替代npm的快速、可靠、安全的依赖管理工具
