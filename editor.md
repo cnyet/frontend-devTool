@@ -22,6 +22,7 @@
 
 - **安装插件：**Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。
 我本地安装的插件列表：
+> A File Icon————好看的文件图标
 > AdvancedNewFile————快速新建文件<br>
 > Alignment————用于代码对齐<br>
 > AutoFileName————自动补全文件(目录)名<br>
@@ -41,7 +42,7 @@
 > PackageResourceViewer———在浏览器中预览markdown文件<br>
 > Theme - Soda————[soda主题](http://buymeasoda.github.io/soda-theme/)<br>
 > HTML-CSS-JS Prettify————快速格式化html,css,js文件<br>
-> 另外两款精美的主题：[Material](http://equinsuocha.io/material-theme/#/default)和[Seti_UI](https://packagecontrol.io/packages/Seti_UI)（插件不是越多越好哦，装多了快捷键就会重合，反而不方便）
+> 另外几款精美的主题：[Material](http://equinsuocha.io/material-theme/#/default)，[Seti_UI](https://packagecontrol.io/packages/Seti_UI)，[Boxy Theme](https://packagecontrol.io/packages/Boxy%20Theme)（插件不是越多越好哦，装多了快捷键就会重合，反而不方便）
 - **删除插件：** Ctrl+Shift+P，输入remove package，选择插件再回车。
 - **调用插件：** 先调出执行面板Ctrl+Shift+P，输入关键字，如：输入git，会出现git相关的操作命令
 - **基本设置：**
