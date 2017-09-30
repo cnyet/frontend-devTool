@@ -13,6 +13,7 @@
 #### WebStorm 相关
 - [官网](https://www.jetbrains.com/webstorm/)
 - [WebStorm主题](http://www.webstormthemes.com/)
+- [IDEA系列主题](http://www.riaway.com/)
 - [WebStorm插件](https://plugins.jetbrains.com/webstorm)
 - [webstorm 入门指南](http://book.apebook.org/minghe/webstorm/index.html)
 - [webstorm快捷键](http://www.jianshu.com/p/7229aff1ae74)
@@ -48,10 +49,12 @@
 - **基本设置：**
 ```
 {
+    //关闭自动保存
+    "atomic_save": false,
     //颜色主题
     "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
     //字体设置
-    "font_face": "consolas",  
+    "font_face": "YaHei Consolas Hybrid",  
     //字号大小  
     "font_size": 14,
     //打开当前行背景颜色
@@ -61,12 +64,22 @@
     [
         "Vintage"
     ],
+    //显示行号右侧的代码段闭合展开三角号
+    "fade_fold_buttons": false,
+    //使用 unix 风格的换行符
+    "default_line_ending": "unix",
+    // 侧边栏文件夹显示加粗，区别于文件
+    "bold_folder_labels": true,
+    //显示滚动条
+    "overlay_scroll_bars": "enabled",
     //当前页失去焦点自动保存
     "save_on_focus_lost": true,
+    // Tab转空格
+    "translate_tabs_to_spaces": true,
     // 自动换行
     "word_wrap": true,
     //主题风格
-    "theme": "Material-Theme.sublime-theme"
+    "theme": "Material-Theme.sublime-theme"(或"Seti.sublime-theme")
 }
 ```
 
