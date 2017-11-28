@@ -24,7 +24,7 @@
 
 - **安装插件：**Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。
 我本地安装的插件列表：
-> A File Icon————好看的文件图标
+> A File Icon————好看的文件图标<br>
 > AdvancedNewFile————快速新建文件<br>
 > Alignment————用于代码对齐<br>
 > AutoFileName————自动补全文件(目录)名<br>
@@ -33,7 +33,8 @@
 > DocBlockr————代码块注释<br>
 > Emmet————快速编写HTML和CSS代码，默认快捷键 Tab<br>
 > Git————集成git管理功能<br>
-> WakaTime————第三方可视化监控平台，可统计操作sublime的各种数据
+> WakaTime————第三方可视化监控平台，可统计操作sublime的各种数据<br>
+> PlainTasks————todo待办事件表<br>
 > Gitignore————一键生成git忽略文件模板<br>
 > jQuery————快速生成jquery代码块<br>
 > JsFormat————JavaScript代码格式化<br>
