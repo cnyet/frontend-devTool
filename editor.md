@@ -10,6 +10,7 @@
 - 还有两个好用的功能是sublime上面没有的，一个是右键点击项目根目录选择<kbd>Local History->Show History</kbd>可以查看项目修改的历史情况，可以返回修改历史上的节点哦，另一个是，右键点击单个文件选择<kbd>Compare With</kbd>，在弹窗里选择一个不同版本的同一个文件，可以进行对比对比，向左合并或向右合并。这个太强大了，直接省去了再装一个[Beyond Compare](http://www.beyondcompare.cc/xiazai.html)软件。
 - 如果项目是协作开发并且用git做版本控制了，还有个更牛B的功能，在文件编辑区域右键点击行号，选择<kbd>Annotate</kbd>可以看到此处是谁写的代码，你写了bug，躲也躲不掉。哈哈……
 - 当然你辛苦设置好WebStorm配置可以在本地查看，windows系统默认放置<kbd>C:\Users\admin\.WebStorm2016.1</kbd>，你可以拷贝到其他电脑上继续使用。记住千万不要用特殊手段关闭WebStorm，比如：关闭进程，突然断电导致电脑关机都可能导致webstorm异常不能启动。
+- windows系统更换主题，先下载XML/ICLS文件并拷贝到C:/Users/USERNAME/.<WebStorm>/config/colors，然后重启webstorm，<kbd>File->Settings->Editor->Colors&Fonts->Font</kbd>，在Scheme下拉框里选择配色。MacOS需要拷贝XML/ICLS文件到~/Library/Preferences/<WebStorm>/colors/。
 #### WebStorm 相关
 - [官网](https://www.jetbrains.com/webstorm/)
 - [WebStorm主题](http://www.webstormthemes.com/)
@@ -74,6 +75,8 @@
     "overlay_scroll_bars": "enabled",
     //当前页失去焦点自动保存
     "save_on_focus_lost": true,
+    // 单个tab大小为2个空格
+    "tab_size": 2,
     // Tab转空格
     "translate_tabs_to_spaces": true,
     // 自动换行
