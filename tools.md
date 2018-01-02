@@ -29,9 +29,10 @@
 - [Typora](https://www.typora.io/) 免费的可跨平台的markdown文本编辑器
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) 免费的多端的可同步github的markdown编辑器
 
-### 兼容性检测
+### 兼容性与性能优化
 - [Can I Use](http://caniuse.com/) 检测css,js在各版本浏览器的支持情况
 - [Modernizr ](https://modernizr.com/) 检测浏览器特性的js库
+- [Eslint](http://eslint.cn/)   JavaScript 代码检查工具，优化和规范代码工具
 
 ### 包管理器
 - [Homebrew](https://brew.sh/) Mac上很流行的软件包管理器
