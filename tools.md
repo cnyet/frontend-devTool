@@ -12,7 +12,7 @@
 
 ### 提高效率的辅助工具
 - [cmder](http://cmder.net/) windows平台替代命令行的工具，可配合sublime使用
-- [iterm2](https://www.iterm2.com/) mac平台命令行增强工具
+- [iterm2](https://www.iterm2.com/) mac平台命令行增强工具，[iterm2配色方案](http://iterm2colorschemes.com/)
 - [Prepros](https://prepros.io/downloads) 提供静态资源的web访问，由于收费软件每隔半小时会提醒你购买，可一直使用。
 - [CodeKit](https://codekitapp.com/) 跟prepros功能相似，只有Mac平台，收费软件，功能强大
 - [notepad++](https://notepad-plus-plus.org/zh/) 文本编辑，格式化，只有Windows平台
