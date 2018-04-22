@@ -42,7 +42,12 @@
 > LESS————高亮显示less语句<br>
 > MarkdownEditing————编写的 markdown文件<br>
 > Package Control————插件管理器<br>
-> PackageResourceViewer———在浏览器中预览markdown文件<br>
+> PackageResourceViewer———插件资源查看器<br>
+> OmniMarkupPreviewer———在浏览器中预览markdown文件<br>
+> Terminal———设置在sublime里面打开命令行，可以在Terminal.sublime-settings-Users里面设置打开iTerm2: ``` {
+  "terminal": "iTerm2-v3.sh",
+  "parameters": ["--open-in-tab"]
+} ```<br>
 > Theme - Soda————[soda主题](http://buymeasoda.github.io/soda-theme/)<br>
 > HTML-CSS-JS Prettify————快速格式化html,css,js文件<br>
 > 另外几款精美的主题：[Material](http://equinsuocha.io/material-theme/#/default)，[Seti_UI](https://packagecontrol.io/packages/Seti_UI)，[Boxy Theme](https://packagecontrol.io/packages/Boxy%20Theme)（插件不是越多越好哦，装多了快捷键就会重合，反而不方便）
