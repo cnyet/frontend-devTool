@@ -28,6 +28,7 @@
 - [mockplus](https://www.mockplus.cn/) 原型设计，支持Windows和Mac，移动端，收费
 - [Typora](https://www.typora.io/) 免费的可跨平台的markdown文本编辑器
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) 免费的多端的可同步github的markdown编辑器
+- [RAP2 Delores](http://rap2.taobao.org/) 前端开发mooc随机测试数据
 
 ### 兼容性与性能优化
 - [Can I Use](http://caniuse.com/) 检测css,js在各版本浏览器的支持情况
