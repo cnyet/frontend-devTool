@@ -21,3 +21,4 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [airbnb-javascript](https://github.com/airbnb/javascript)
 - [frontend-guidelines](https://github.com/ShanaMaid/frontend-guidelines-zh-CN)
+- [The Front-End Checklist](https://frontendchecklist.io/)

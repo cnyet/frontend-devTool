@@ -1,7 +1,7 @@
 ### IDE编辑器
-> 推荐[WebStorm](https://www.jetbrains.com/webstorm/)和[Sublime Text](https://www.sublimetext.com/)
+> 推荐[WebStorm](https://www.jetbrains.com/webstorm/)、[Sublime Text](https://www.sublimetext.com/)、[Visual Studio Code](https://code.visualstudio.com/)
 
-### WebStorm
+### 1. WebStorm
 &emsp;&emsp;我之前一直在用。我觉得如果你需要快速开发项目，或者嫌编辑器配置麻烦，那么推荐WebStorm。它集成很多丰富的功能，包括代码自动补全，鼠标悬停显示变量出处，命令行操作，提供本地静态页面http访问等等，几乎涵盖了你需要的所有功能。但正因此编辑器会经常卡死，崩溃，响应慢。由于它是收费软件需要破解，而且还经常崩溃，后来我才转战sublime。
 
 - 这里我贴一个[WebStorm2016 1.3版本的破解](http://www.jianshu.com/p/c5f7ab33add0)教程；
@@ -11,7 +11,7 @@
 - 如果项目是协作开发并且用git做版本控制了，还有个更牛B的功能，在文件编辑区域右键点击行号，选择<kbd>Annotate</kbd>可以看到此处是谁写的代码，你写了bug，躲也躲不掉。哈哈……
 - 当然你辛苦设置好WebStorm配置可以在本地查看，windows系统默认放置<kbd>C:\Users\admin\.WebStorm2016.1</kbd>，你可以拷贝到其他电脑上继续使用。记住千万不要用特殊手段关闭WebStorm，比如：关闭进程，突然断电导致电脑关机都可能导致webstorm异常不能启动。
 - windows系统更换主题，先下载XML/ICLS文件并拷贝到C:/Users/USERNAME/.<WebStorm>/config/colors，然后重启webstorm，<kbd>File->Settings->Editor->Colors&Fonts->Font</kbd>，在Scheme下拉框里选择配色。MacOS需要拷贝XML/ICLS文件到~/Library/Preferences/<WebStorm>/colors/。
-#### WebStorm 相关
+##### WebStorm 相关
 - [官网](https://www.jetbrains.com/webstorm/)
 - [WebStorm主题](http://www.webstormthemes.com/)
 - [IDEA系列主题](http://www.riaway.com/)
@@ -19,7 +19,7 @@
 - [webstorm 入门指南](http://book.apebook.org/minghe/webstorm/index.html)
 - [webstorm快捷键](http://www.jianshu.com/p/7229aff1ae74)
 
-### Sublime Text
+### 2. Sublime Text
 &emsp;&emsp;界面非常简洁，是一个轻量级而功能强大的编辑器。它也是收费软件，但是相比WebStorm要好破解一些。[sublime破解](http://www.jianshu.com/p/04e1b65dd2c0)，根据你安装的插件sublime才变得功能更加丰富。在安装各种插件之前你需要先装插件管理器[Package Control](https://packagecontrol.io/installation)
 
 - **安装插件：**Ctrl+Shift+P，输入install，等待几秒后出现插件列表，输插件名再回车就能自动安装。
@@ -93,12 +93,36 @@
 }
 ```
 
-#### Sublime相关
+##### Sublime相关
 - [官网](https://www.sublimetext.com/)
 - [扩展管理器](https://packagecontrol.io/)
 - [Sublime主题](https://juejin.im/entry/599a1bed6fb9a0248070d4b1)
 - [Sublime设置](https://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 - [Sublime快捷键](http://jinfang.life/posts/e4aa08c5/)
 
-### Visual Studio Code
+### 3. Visual Studio Code
+&emsp;&emsp;号称编写现代 Web 和云应用的跨平台源代码编辑器，集大家之所长，功能强大，通用性很强，既有像sublime一样多的插件，也有webstorm一样丰富的功能，而且还是免费的。很容易上手，快捷键基本一样，不需要太多配置就可以直接用。
+
+- ** 基本设置 **
+```
+{
+  //编辑器的字体大小
+  "editor.fontSize": 14,
+  //文件失去焦点时自动保存
+  "files.autoSave": "onFocusChange",
+  //一个制表符等于2个空格数
+  "editor.tabSize": 2,
+  //关闭初始化安装之后出现欢迎的信息
+  "team.showWelcomeMessage": false,
+  //关闭同步 Git 存储库前进行确认
+  "git.confirmSync": false,
+  //关闭当打开文件时，将基于文件内容检测 "editor.tabSize" 和 "editor.insertSpaces"
+  "editor.detectIndentation": false,
+}
+```
+- 推荐安装插件
+> VSCode Great Icons ---- 官方推荐的一套文件图标 </br>
+> ESlint ---- 集成eslint检查JavaScript代码 </br>
+> Debugger for Chrome ---- 联合chrome调试bug </br>
+> 
 
