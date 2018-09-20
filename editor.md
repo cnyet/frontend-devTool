@@ -28,6 +28,7 @@
 > AdvancedNewFile————快速新建文件<br>
 > Alignment————用于代码对齐<br>
 > AutoFileName————自动补全文件(目录)名<br>
+> Babel————识别ES6语法和React JSX语法<br>
 > Better Less————格式化less文件<br>
 > Compare Side-By-Side————Sublime版本的BeyongCompare<br>
 > DocBlockr————代码块注释<br>
@@ -98,3 +99,6 @@
 - [Sublime主题](https://juejin.im/entry/599a1bed6fb9a0248070d4b1)
 - [Sublime设置](https://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 - [Sublime快捷键](http://jinfang.life/posts/e4aa08c5/)
+
+### Visual Studio Code
+
